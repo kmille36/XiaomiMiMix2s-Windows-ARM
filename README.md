@@ -2,7 +2,7 @@ Tools link: https://www.mediafire.com/file/gfmse2z9yfi6e8j/edk2_win_file_needed.
 
 TWRP link: https://twrp.me/xiaomi/xiaomimimix2s.html
 
-You need to flash devcfg partition with the provided image. Link: http://files.renegade-project.org/devcfg-polaris_FixTS.img with command fastboot flash devcfg_ab devcfg-polaris_FixTS.img
+You need to flash devcfg partition with the provided image. Link: http://files.renegade-project.org/devcfg-polaris_FixTS.img with command: fastboot flash devcfg_ab devcfg-polaris_FixTS.img
 
 Windows 11 Dev ISO link (recommend): https://drive.google.com/file/d/1th7q6cR7GXGBlAei0NQJAnWJYJyf0RG4/view?usp=sharing
 
