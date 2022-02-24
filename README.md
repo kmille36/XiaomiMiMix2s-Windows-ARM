@@ -12,8 +12,7 @@ Windows 11 Dev ISO link (recommend): https://drive.google.com/file/d/1th7q6cR7GX
 
 Windows 10 Pro ISO link (x64 app not supported): https://drive.google.com/file/d/1cA18oI4FeOTQEcrl7kPO_OY9GYPEH8XX/view?usp=sharing
 
-![image](https://user-images.githubusercontent.com/58414694/155492130-ef0f9f2e-261b-4fb0-a6a5-c002b7717e5a.png)
-
+![image](https://user-images.githubusercontent.com/58414694/155492248-047e4360-e764-45c5-a0fe-959516f26fd2.png)
 
 ![image](https://user-images.githubusercontent.com/58414694/154401085-158931b3-8fd5-4adc-9786-ca7a82b5f793.png)
 
