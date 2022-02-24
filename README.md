@@ -2,6 +2,8 @@ Tools link: https://www.mediafire.com/file/gfmse2z9yfi6e8j/edk2_win_file_needed.
 
 TWRP link: https://twrp.me/xiaomi/xiaomimimix2s.html
 
+SIM Support: https://qfiltool.com/qfil-tool-v2-0-1-9
+
 You need to flash devcfg partition with the provided image. Link: http://files.renegade-project.org/devcfg-polaris_FixTS.img with command: fastboot flash devcfg_ab devcfg-polaris_FixTS.img
 
 WOA Driver for Mi Mix 2S: https://github.com/edk2-porting/WOA-Drivers/releases/download/v1.1.1/polaris.tar.gz
