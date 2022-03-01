@@ -3,7 +3,7 @@ Tools link: https://www.mediafire.com/file/gfmse2z9yfi6e8j/edk2_win_file_needed.
 TWRP link: https://twrp.me/xiaomi/xiaomimimix2s.html
 
 SIM Support: https://forum.renegade-project.org/t/mix2s-polaris-qcn/1268
-  - adb shell then setprop sys.config.usb diag,adb
+  - adb shell > su > setprop sys.config.usb diag,adb
 
 You need to flash devcfg partition with the provided image. Link: http://files.renegade-project.org/devcfg-polaris_FixTS.img with command: fastboot flash devcfg_ab devcfg-polaris_FixTS.img
 
