@@ -11,7 +11,7 @@ WOA Driver for Mi Mix 2S: https://github.com/edk2-porting/WOA-Drivers/releases/d
 
 Windows 11 Dev ISO link (recommend): https://drive.google.com/file/d/1KX19hK3TecXmX2yGvn_Xv60lPPvPuJAA/view?usp=sharing
 
-Windows 10 Pro ISO link (x64 app not supported): https://drive.google.com/file/d/1cA18oI4FeOTQEcrl7kPO_OY9GYPEH8XX/view?usp=sharing
+Windows 10 Pro ISO link (x64 app not supported): https://drive.google.com/file/d/1m4qf-ug1pA0E2ADLmK1G-tOED9xxBF5W/view?usp=sharing
 
 ![image](https://user-images.githubusercontent.com/58414694/155492248-047e4360-e764-45c5-a0fe-959516f26fd2.png)
 
