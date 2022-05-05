@@ -9,9 +9,9 @@ You need to flash devcfg partition with the provided image. Link: http://files.r
 
 WOA Driver for Mi Mix 2S: https://github.com/edk2-porting/WOA-Drivers/releases/download/v1.1.1/polaris.tar.gz
 
-Windows 11 Dev ISO link (recommend): https://drive.google.com/file/d/15S9jaJ96aEZfLWNIdxYLGUuh6EgpIPtb/view?usp=sharing
+Windows 11 Dev ISO link (recommend): https://drive.google.com/file/d/1DPeNurdq_GoSBaz5vnvwASqd_w3qa3_w/view?usp=sharing
 
-Windows 10 Pro ISO link (x64 app not supported): https://drive.google.com/file/d/1VZNPzX7k1Oo7FYClpMV0omNlIHxEe7_l/view?usp=sharing
+Windows 10 Pro ISO link (x64 app not supported): https://drive.google.com/file/d/1a18fY2mxlaXUlagUFVa1QRdmJG2Gax_e/view?usp=sharing
 
 HDMI via DisplayLink: USB 3.0 to HDMI Ugreen 40229
 
