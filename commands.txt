@@ -25,7 +25,7 @@ mkpart userdata ext4 221GB 253GB
 mkpart esp fat32 6559MB 7000MB
 mkpart win ntfs 7000MB 100GB
 mkpart pe fat32 100GB 101GB
-mkpart userdata ext4 101GB 127GB
+mkpart userdata ext4 101GB 123GB
 
 #Buat Partisi (64GB model)
 mkpart esp fat32 6559MB 7000MB
