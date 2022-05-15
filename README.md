@@ -11,7 +11,7 @@ WOA Driver for Mi Mix 2S: https://github.com/edk2-porting/WOA-Drivers/releases/d
 
 Windows 11 Dev ISO link (recommend): https://drive.google.com/file/d/1qnuMruzqVTvsahVQMe7F4b4IbhsUzr6-/view?usp=sharing
 
-Windows 10 Pro ISO link (x64 app not supported): https://drive.google.com/file/d/1a18fY2mxlaXUlagUFVa1QRdmJG2Gax_e/view?usp=sharing
+Windows 10 Pro ISO link (x64 app not supported): https://drive.google.com/file/d/1iile3xCUhLHxjzJEBj843ViUPLA6UfRx/view?usp=sharing
 
 HDMI via DisplayLink: USB 3.0 to HDMI Ugreen 40229
 
