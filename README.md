@@ -28,3 +28,11 @@ HDMI via DisplayLink: USB 3.0 to HDMI Ugreen 40229
 ![image](https://user-images.githubusercontent.com/58414694/154399964-8c23c776-51dc-4900-9ecc-5168b2844784.png)
 
 ![image](https://user-images.githubusercontent.com/58414694/154399776-6790111e-3646-4e25-9ddb-2e1ad2975feb.png)
+
+* Delete Windows ARM? Do parted step same as install, then rm esp, pe, win, userdata, and make new userdata with command: 
+
+![image](https://user-images.githubusercontent.com/58414694/171090939-eaeba3e7-c753-4867-9664-b927091cbf91.png)
+
+ + mkpart userdata ext4 1611MB 59.1GB (64GB model)
+ + mkpart userdata ext4 1611MB 123GB (128GB model)
+ + mkpart userdata ext4 1611MB 253GB (256GB model)
