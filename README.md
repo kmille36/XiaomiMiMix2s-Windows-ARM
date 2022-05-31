@@ -1,4 +1,4 @@
-Tools link: https://www.mediafire.com/file/gfmse2z9yfi6e8j/edk2_win_file_needed.zip/file (OLD)
+Tools link: https://drive.google.com/file/d/1-w8TNVzqBj442bn5MXVjSnlI9wNr_JCc/view?usp=sharing
   - Or download manually: https://renegade-project.org/#/en/windows/Installation-guide
 
 TWRP link: https://twrp.me/xiaomi/xiaomimimix2s.html
