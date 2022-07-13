@@ -8,7 +8,7 @@ SIM Support: https://forum.renegade-project.org/t/mix2s-polaris-qcn/1268
 
 You need to flash devcfg partition with the provided image. Link: http://files.renegade-project.org/devcfg-polaris_FixTS.img with command: fastboot flash devcfg_ab devcfg-polaris_FixTS.img
 
-WOA Driver for Mi Mix 2S: https://github.com/edk2-porting/WOA-Drivers/releases/download/v1.1.1/polaris.tar.gz
+WOA Driver for Mi Mix 2S: https://github.com/edk2-porting/WOA-Drivers/releases/download/v2.0rc2/polaris.tar.gz
 
 Windows 11 Dev ISO link (recommend): https://drive.google.com/file/d/1VQwg7fHyiZQPiFd7PnLcxn3mrix_AagY/view?usp=sharing
 
