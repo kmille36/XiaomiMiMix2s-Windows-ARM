@@ -1,8 +1,8 @@
-#Boot to twrp tecovery
+#Boot into twrp tecovery
 
-#masukan / push parted script into sdcard
+#Push parted script into sdcard (change path to your parted)
 
-adb push E:\arm64\parted /sdcard/
+adb push "E:\arm64\parted" /sdcard/
 
 #start adb shell
 adb shell
@@ -13,21 +13,22 @@ umount /data && umount /sdcard
 #start parted
 parted /dev/block/sda
 
-#Hapus Partisi User Data(Menyesuaikan no Partisi) dengan Command rm
+#Delete userdata Partition with Command rm number
+rm 21
 
-#Buat Partisi (256GB model)
+#Create Windows Partition (256GB model)
 mkpart esp fat32 6559MB 7000MB
 mkpart win ntfs 7000MB 220GB
 mkpart pe fat32 220GB 221GB
 mkpart userdata ext4 221GB 253GB
 
-#Buat Partisi (128GB model)
+#Create Windows Partition (128GB model)
 mkpart esp fat32 6559MB 7000MB
 mkpart win ntfs 7000MB 100GB
 mkpart pe fat32 100GB 101GB
 mkpart userdata ext4 101GB 123GB
 
-#Buat Partisi (64GB model)
+#Create Windows Partition (64GB model)
 mkpart esp fat32 6559MB 7000MB
 mkpart win ntfs 7000MB 40GB
 mkpart pe fat32 40GB 41GB
@@ -41,21 +42,21 @@ quit
 
 #reboot to twrp
 
-#format Partisi
+#format Partition 
 mkfs.fat -F32 -s1 /dev/block/by-name/pe
 mkfs.fat -F32 -s1 /dev/block/by-name/esp
 mkfs.ntfs -f /dev/block/by-name/win
 mke2fs -t ext4 /dev/block/by-name/userdata
 
-#mount Partisi PE
+#mount Partition PE
 mount /dev/block/by-name/pe /mnt
 
-#Copy File PE ke Folder mnt di HP
+#Copy All File in PE Folder to PE disk 
 
-#Masuk ke Mode Fastboot dan Boot ke UEFI
-fastboot boot File EFI boot
+#Masuk ke Mode Fastboot dan Boot ke UEFI (change path to your boot-polaris.img)
+fastboot boot "E:\boot-polaris.img"
 
-################ commands on the phone################
+################ commands on the phone (in Windows PE) ################
 diskpart
 
 select disk 0
