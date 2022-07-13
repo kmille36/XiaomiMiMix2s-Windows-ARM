@@ -14,7 +14,7 @@ Windows 11 Dev ISO link (recommend): https://drive.google.com/file/d/1VQwg7fHyiZ
 
 Windows 10 Pro ISO link (x64 app not supported): https://drive.google.com/file/d/1iile3xCUhLHxjzJEBj843ViUPLA6UfRx/view?usp=sharing
 
-All sensors and microphone on Bluetooth headset now supports with new drivers 
+All sensors and microphone on Bluetooth headset now supports with new drivers: https://github.com/edk2-porting/WOA-Drivers/releases/download/v2.0rc2/polaris.tar.gz
 
 ![image](https://user-images.githubusercontent.com/58414694/178842437-bfbb02f2-b1f5-4f6f-984b-0ddc407fc83b.png)
 
