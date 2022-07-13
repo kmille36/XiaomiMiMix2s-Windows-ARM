@@ -35,7 +35,7 @@ mkpart userdata ext4 41GB 59.1GB
 
 
 #set esp on
-set 1 esp on
+set 21 esp on
 #Quit
 quit
 
