@@ -1,4 +1,4 @@
-# Written by fb.com/thuong.hai.581 #
+# Tutorial: Written by fb.com/thuong.hai.581 #
 
 P/S: Ai không rành về cntt hoặc cần hướng dẫn, cài hộ từ a-z qua teamview ib qua fb trên nhé.
 
