@@ -1,6 +1,6 @@
 # Written by fb.com/thuong.hai.581 #
 
-P/S: Ai không rành về cntt hoặc cần hướng dẫn, cài hộ qua teamview ib qua fb trên nhé.
+P/S: Ai không rành về cntt hoặc cần hướng dẫn, cài hộ từ a-z qua teamview ib qua fb trên nhé.
 
 Tools link: https://drive.google.com/file/d/1-w8TNVzqBj442bn5MXVjSnlI9wNr_JCc/view?usp=sharing
   - Or download manually: https://renegade-project.org/#/en/windows/Installation-guide
