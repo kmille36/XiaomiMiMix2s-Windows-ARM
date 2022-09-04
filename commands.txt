@@ -20,7 +20,7 @@ rm 21
 mkpart esp fat32 6559MB 7000MB
 mkpart win ntfs 7000MB 220GB
 mkpart pe fat32 220GB 221GB
-mkpart userdata ext4 221GB 253GB
+mkpart userdata ext4 221GB 251GB
 
 #Create Windows Partition (128GB model)
 mkpart esp fat32 6559MB 7000MB
