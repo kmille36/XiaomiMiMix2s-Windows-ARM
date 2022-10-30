@@ -44,4 +44,4 @@ HDMI via DisplayLink: USB 3.0 to HDMI Ugreen 40229
 
  + mkpart userdata ext4 1611MB 59.1GB (64GB model)
  + mkpart userdata ext4 1611MB 123GB (128GB model)
- + mkpart userdata ext4 1611MB 253GB (256GB model)
+ + mkpart userdata ext4 1611MB 251GB (256GB model)
