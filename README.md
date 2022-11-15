@@ -24,6 +24,10 @@ All sensors and microphone on Bluetooth headset now supports with new drivers: h
 
 HDMI via DisplayLink: USB 3.0 to HDMI Ugreen 40229
 
+![PXL_20221115_215140838 MP](https://user-images.githubusercontent.com/58414694/202033152-7b63d7a4-9b66-41fa-9e2e-1bf0725dbe15.jpg)
+
+Connect external display (with mouse, keyboard, charging) 
+
 ![z3319353158028_ddf749c2cb8430116faacc23dcb64e5c](https://user-images.githubusercontent.com/58414694/161889855-d5792d90-c82b-47ff-8fc2-0891e41faf74.jpg)
 
 ![image](https://user-images.githubusercontent.com/58414694/155492248-047e4360-e764-45c5-a0fe-959516f26fd2.png)
