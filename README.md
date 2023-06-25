@@ -2,7 +2,7 @@
 
 P/S: Ai không rành về cntt hoặc cần hướng dẫn, cài hộ từ a-z qua teamview ib qua fb trên nhé.
 
-Tools link: https://drive.google.com/file/d/1-w8TNVzqBj442bn5MXVjSnlI9wNr_JCc/view?usp=sharing (DEPRECATED)
+All tools link: https://drive.google.com/file/d/1cc25sbw96h0MNmygrfQC8rwOVC73Ke3k/view?usp=sharing (UPDATED)
   - Or download manually: https://renegade-project.org/#/en/windows/Installation-guide
 
 TWRP link: https://twrp.me/xiaomi/xiaomimimix2s.html
